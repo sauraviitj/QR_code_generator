@@ -21,7 +21,7 @@ You can  run this project in Google Colab: [Open Colab Notebook](https://colab.r
 To set up the project, clone the repository and install the required packages:
 
 ```bash
-git clone https://github.com/yourusername/qr-code-excel-generator.git
+git clone https://github.com/sauraviitj/qr-code-excel-generator.git
 cd qr-code-excel-generator
 pip install pandas qrcode[pil] openpyxl
 
