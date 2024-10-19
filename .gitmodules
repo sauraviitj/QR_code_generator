@@ -1,3 +1,3 @@
 [submodule "Software_access"]
-   path = QR_code_generator/main/Software_access
+   path = QR_code_generator/Software_access
    url = https://github.com/sauraviitj/QR_code_pvt_software.git
