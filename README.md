@@ -12,19 +12,15 @@ This project allows users to generate QR codes for data stored in an Excel file.
 - The output Excel file retains the original data along with the corresponding QR codes.
 
 ## Table of Contents
-- [Installation](#installation)
+<!-- - [Installation](#installation)-->
 - [Software Access](#Software_Access)
 <!-- - [Google Colab](#GoogleColab) -->
 <!-- ## GoogleColab -->
 <!--You can  run this project in Google Colab: [Open Colab Notebook](https://colab.research.google.com/drive/17OKGI_LG0o1EnVKE6JLQZ9IPhIfxpAPt?usp=sharing) -->
 ## Software Access
-Please contact us at sauravchowdhury16.sc@gmail.com to get the software.
-## Installation
-To set up the project, clone the repository and install the required packages:
+Please contact us at trio.ai.ml@gmail.com to get the software we are currently running version 1.0.
 
-```bash
-git clone https://github.com/sauraviitj/qr-code-excel-generator.git
-cd qr-code-excel-generator
-pip install pandas qrcode[pil] openpyxl
+You can also contact us to get access to the colab link and ipynb file to run the code.
+
 
 
