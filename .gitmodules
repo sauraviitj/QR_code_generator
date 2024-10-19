@@ -1,3 +1,3 @@
 [submodule "private-folder"]
    path = Software_access/
-   url = git@github.com:sauraviitj/QR_code_pvt_software.git
+   url = https://github.com/sauraviitj/QR_code_pvt_software.git
