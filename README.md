@@ -13,10 +13,12 @@ This project allows users to generate QR codes for data stored in an Excel file.
 
 ## Table of Contents
 - [Installation](#installation)
-- [Google Colab](#GoogleColab)
-## GoogleColab
-You can  run this project in Google Colab: [Open Colab Notebook](https://colab.research.google.com/drive/17OKGI_LG0o1EnVKE6JLQZ9IPhIfxpAPt?usp=sharing)
-
+- [Software Access](#Software_Access)
+<!-- - [Google Colab](#GoogleColab) -->
+<!-- ## GoogleColab -->
+<!--You can  run this project in Google Colab: [Open Colab Notebook](https://colab.research.google.com/drive/17OKGI_LG0o1EnVKE6JLQZ9IPhIfxpAPt?usp=sharing) -->
+## Software Access
+Please contact us at sauravchowdhury16.sc@gmail.com to get the software.
 ## Installation
 To set up the project, clone the repository and install the required packages:
 
