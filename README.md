@@ -10,7 +10,7 @@ This project allows users to generate QR codes for data stored in an Excel file.
 - Generated QR codes are saved as images and inserted back into the Excel file.
 - Images are sized appropriately for easy scanning.
 - The output Excel file retains the original data along with the corresponding QR codes.
-
+![image](https://github.com/sauraviitj/QR_code_generator/blob/main/images/Screenshot%202024-10-20%20143115.png)
 ## Table of Contents
 <!-- - [Installation](#installation)-->
 - [Software Access](#Software_Access)
